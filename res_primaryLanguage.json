@@ -1,13 +1,14 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Matthew Ng. Forward-thinking Software Engineer with background working productively in dynamic environments. Fluent in Java and Javascript programming languages used to develop software within Production. Proud team player focused on achieving project objectives with speed and accuracy. Thank you!!",
+    "description": "👋我係來自香港既Programmer。多數使用Java, React 或 Python黎做開發。另外都會搞下網站例如 Wordpress改code幫客人Customize....",
     "section_name": {
-      "about": "About me",
-      "projects": "Projects",
-      "skills": "Skills",
-      "experience": "Experience"
+      "about": "關於我",
+      "projects": "項目",
+      "skills": "技術",
+      "experience": "工作經濟"
     }
+    
   },
   "projects": [
     {
