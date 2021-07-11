@@ -5,11 +5,11 @@
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/ngmatthew227/",
         "class": "fab fa-github"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "/myProfile.jpg"
   },
   "skills": {
     "icons": [
