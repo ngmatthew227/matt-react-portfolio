@@ -11,7 +11,7 @@
       {
         "name": "gmail",
         "url": "mailto:matthewlearn56@gmail.com",
-        "class": "fas fa-envelope-o"
+        "class": "fas fa-envelope-open-text"
       }
     ],
     "image": "myProfile.jpg"
