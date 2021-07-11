@@ -1,0 +1,96 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Matthew Ng. Forward-thinking Software Engineer with background working productively in dynamic environments. Fluent in Java and Javascript programming languages used to develop software within Production. Proud team player focused on achieving project objectives with speed and accuracy. Thank you!!",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "HK Summertown",
+      "startDate": "2021",
+      "description": "",
+      "images": ["images/portfolio/summer-town/1.png", "images/portfolio/summer-town/2.png", "images/portfolio/summer-town/3.png"],
+      "url": "https://hksummertown.com/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        },
+        {
+          "class": "devicon-woocommerce-plain",
+          "name": "Woocommerce"
+        }
+      ]
+    },
+    {
+      "title": "Matt-Shop",
+      "startDate": "2021",
+      "description": "Personal project for Ecommerce online shop.",
+      "images": ["images/portfolio/matt-shop/1.png", "images/portfolio/matt-shop/2.png"],
+      "url": "http://box2474.temp.domains/~blueant4/matt-shop/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        },
+        {
+          "class": "devicon-woocommerce-plain",
+          "name": "Woocommerce"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    },
+    {
+      "title": "藍天古董收購",
+      "startDate": "2021",
+      "description": "",
+      "images": ["images/portfolio/blue/1.png", "images/portfolio/blue/2.png"],
+      "url": "https://blue-antiques.com/",
+      "technologies": [
+         {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        },
+        {
+          "class": "devicon-woocommerce-plain",
+          "name": "Woocommerce"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "2Fi Business Solutions Limited",
+      "title": "Senior Software Engineer",
+      "years": "06.2019 - 07.2021",
+      "mainTech": ["Spring MVC", "Extjs", "Java"],
+      "technologies": ["REST API", "JavaScript", "SpringBoot", "Mysql", "React"]
+    },
+    {
+      "company": "The Open University of Hong Kong",
+      "title": "Research Assistant",
+      "years": "10.2018 - 06.2019",
+      "mainTech": ["R", "Tableau"],
+      "technologies": ["Python", "R"]
+    },
+    {
+      "company": "LexinFintech Holdings Ltd",
+      "title": "Intern for Data Analyst",
+      "years": "06.2018 - 08.2018",
+      "mainTech": ["Python"],
+      "technologies": ["Python", "R"]
+    }
+  ]
+}
