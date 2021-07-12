@@ -5,8 +5,13 @@
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/ngmatthew227/",
         "class": "fab fa-github"
+      },
+      {
+        "name": "gmail",
+        "url": "mailto:matthewlearn56@gmail.com",
+        "class": "fas fa-envelope-open-text"
       }
     ],
     "image": "myProfile.jpg"
